@@ -41,7 +41,7 @@ Built a dynamic KPI dashboard to evaluate performance across multiple department
 
 **Skills:** Performance Analysis, Business Intelligence, Data Visualization
 
-[View Project](PASTE-YOUR-REPOSITORY-LINK)
+[View Project]([PASTE-YOUR-REPOSITORY-LINK](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project)
 
 ---
 
