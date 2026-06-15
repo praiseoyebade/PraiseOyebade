@@ -31,7 +31,7 @@ Developed an interactive financial dashboard to analyze revenue, profitability, 
 
 **Skills:** Financial Analysis, KPI Reporting, DAX, Dashboard Design
 
-[View Project](PASTE-YOUR-REPOSITORY-LINK)
+[View Project](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project-Financial-Analysis)
 
 
 
