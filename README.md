@@ -31,7 +31,7 @@ Developed an interactive financial dashboard to analyze revenue, profitability, 
 
 **Skills:** Financial Analysis, KPI Reporting, DAX, Dashboard Design
 
-[View Project](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project-Financial-Analysis)
+[View Financial Analysis Project](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project-Financial-Analysis)
 
 
 
@@ -41,7 +41,7 @@ Built a dynamic KPI dashboard to evaluate performance across multiple department
 
 **Skills:** Performance Analysis, Business Intelligence, Data Visualization
 
-[View Project](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project)
+[View Cross-Department KPI Analysis Project](https://github.com/praiseoyebade/data-analytics-portfolio/tree/main/PowerBI-Project)
 
 ---
 
